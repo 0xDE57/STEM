@@ -207,6 +207,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@TechIngredients
 * https://www.youtube.com/@TechnologyConnections
 * https://www.youtube.com/@thethoughtemporium
+* https://www.youtube.com/@ThisOldTony
 * https://www.youtube.com/@TomStantonEngineering
 * https://www.youtube.com/@veritasium
 * https://www.youtube.com/@Wintergatan
