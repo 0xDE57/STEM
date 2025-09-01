@@ -186,6 +186,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@Cloudylabs
 * https://www.youtube.com/@colinfurze
 * https://www.youtube.com/@cylosgarage
+* https://www.youtube.com/@DiffractionLimited
 * https://www.youtube.com/@DrBrianKeating
 * https://www.youtube.com/@engineerguyvideo
 * https://www.youtube.com/@ExplosionsAndFire
