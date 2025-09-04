@@ -6,6 +6,7 @@ Math / Physics
 * https://www.youtube.com/@dreznik
 * https://www.youtube.com/@DrTrefor
 * https://www.youtube.com/@eigenchris
+* https://www.youtube.com/@josephnewton
 * https://www.youtube.com/@Mathologer
 * https://www.youtube.com/@MrPSolver
 * https://www.youtube.com/@Nemean
