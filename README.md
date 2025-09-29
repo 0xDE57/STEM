@@ -190,6 +190,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@DiffractionLimited
 * https://www.youtube.com/@DrBrianKeating
 * https://www.youtube.com/@engineerguyvideo
+* https://www.youtube.com/@ExcessiveOverkill
 * https://www.youtube.com/@ExplosionsAndFire
 * https://www.youtube.com/@ExtractionsAndIre
 * https://www.youtube.com/@HighYield
