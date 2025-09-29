@@ -156,6 +156,7 @@ Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@franzolielectronics
 * https://www.youtube.com/@jdflyback
 * https://www.youtube.com/@LightningOnDemand
+* https://www.youtube.com/@Photonicinduction
 * https://www.youtube.com/@Photonvids
 * https://www.youtube.com/@PlasmaChannel
 * https://www.youtube.com/@styropyro
