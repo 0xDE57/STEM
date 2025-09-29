@@ -3,6 +3,7 @@ Math / Physics
 ---
 * https://www.youtube.com/@3blue1brown
 * https://www.youtube.com/@Aleph0
+* https://www.youtube.com/@braintruffle
 * https://www.youtube.com/@dreznik
 * https://www.youtube.com/@DrTrefor
 * https://www.youtube.com/@eigenchris
