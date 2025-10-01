@@ -121,6 +121,7 @@ EE & RF
 * https://www.youtube.com/@CNLohr
 * https://www.youtube.com/@CuriousMarc
 * https://www.youtube.com/@EEVblog
+* https://www.youtube.com/@electronupdate
 * https://www.youtube.com/@GearAcquisitionSyndrome
 * https://www.youtube.com/@GeerlingEngineering
 * https://www.youtube.com/@greatscottlab
