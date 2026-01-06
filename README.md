@@ -146,6 +146,7 @@ SDR, HAM, LoRa
 * https://www.youtube.com/@peterfairlie2296
 * https://www.youtube.com/@RFDesignbasics
 * https://www.youtube.com/@RobVK8FOES
+* https://www.youtube.com/@saveitforparts
 * https://www.youtube.com/@SignalPhantom
 * https://www.youtube.com/@sn0ren
 * https://www.youtube.com/@Superphish
