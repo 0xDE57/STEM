@@ -241,6 +241,7 @@ Music Theory and music + math + programming
 * https://www.youtube.com/@FormantMath
 * https://www.youtube.com/@jerobeamfenderson1
 * https://www.youtube.com/@marcevanstein
+* https://www.youtube.com/@Mattiaskrantz
 * https://www.youtube.com/@mbcodeandsound
 * https://www.youtube.com/@MoritzKlein0
 * https://www.youtube.com/@Tantacrul
