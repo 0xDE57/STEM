@@ -165,6 +165,7 @@ Lasers, Plasma, "big electricity"
 
   
 Repair
+* https://www.youtube.com/@allenfleckney5969
 * https://www.youtube.com/@dosdude1
 * https://www.youtube.com/@electronicsrepairschool
 * https://www.youtube.com/@GetRefurbed
