@@ -38,6 +38,7 @@ Game Dev: math / vectors / shaders / engines / rendering
 * https://www.youtube.com/@SebastianLague
 * https://www.youtube.com/@TheArtofCodeIsCool
 * https://www.youtube.com/@TheCherno
+* https://www.youtube.com/@zanzlanz
 
 
 Machine Learning
@@ -120,6 +121,7 @@ EE & RF
 * https://www.youtube.com/@Analogzoo
 * https://www.youtube.com/@CNLohr
 * https://www.youtube.com/@CuriousMarc
+* https://www.youtube.com/@ExcessiveOverkill
 * https://www.youtube.com/@EEVblog
 * https://www.youtube.com/@electronupdate
 * https://www.youtube.com/@GearAcquisitionSyndrome
@@ -220,7 +222,6 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@Wintergatan
 
 
-
 Space
 ---
 * https://www.youtube.com/@DeepSkyVideos
@@ -229,10 +230,12 @@ Space
 * https://www.youtube.com/@scottmanley
 * https://www.youtube.com/@sixtysymbols
 
+
 Rockets!
 ---
 * https://www.youtube.com/@BPSspace
 * https://www.youtube.com/@LafayetteSystems
+
 
 Music Theory and music + math + programming
 ---
